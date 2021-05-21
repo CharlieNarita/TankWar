@@ -1,0 +1,20 @@
+#key-value pair
+#xml yaml
+
+
+#tankFrame property
+gameWidth = 1024
+gameHeight = 768
+initNpcTankCount = 5
+initPlayerTankCount = 1
+
+#tank property
+npcTankSpeed = 3
+playerTankSpeed = 5
+
+#tank fire strategy
+fireStrategy = DefaultFireStrategy
+
+#collider types
+colliders = ShellTankCollider,ShellWallCollider,TankWallCollider,TankTankCollider
+
