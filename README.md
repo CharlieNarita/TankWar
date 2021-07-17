@@ -1,6 +1,6 @@
 # TankWar
 This alpha edition is proto-type demo which contains kernel functions .
-Created by Java.
+Created with Java.
 
 Help:
 1.Moving: up, down, left, right arrow key;
